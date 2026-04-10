@@ -61,6 +61,14 @@ The last power-up teaches model switching and effort control with an animated de
 
 ---
 
+## See Also
+
+- [Skills Best Practice](./claude-skills.md) — Skill frontmatter, discovery, and invocation patterns
+- [Hooks Best Practice](./claude-hooks.md) — Event-driven automation for workflow power-ups
+- [Memory & Context Management Guide](./claude-memory-guide.md) — Managing memory layers referenced in the power-ups
+
+---
+
 ## Sources
 
 - [Changelog — v2.1.90](https://code.claude.com/docs/en/changelog)

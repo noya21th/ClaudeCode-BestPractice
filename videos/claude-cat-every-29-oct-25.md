@@ -1,5 +1,18 @@
 # The Secrets of Claude Code From the Engineers Who Built It — Every
 
+## TL;DR
+- "Everything you can do, Claude Code can do. There's nothing in between." — the terminal gives the model the same capabilities as the engineer
+- Claude Code tools are dual-use by design: slash commands, bash output, and context are shared between human and model equally
+- Boris uses plan mode (shift-tab twice) for harder features; for one-shottable tasks he enables auto-accept and moves to the next tab
+- The team's most-used slash commands: /commit, /pr, /feature-dev (structured step-by-step development), /security-review, /code-review
+- Over 70-80% of technical Anthropic employees use Claude Code daily; internal power users spend over $1,000/month in credits
+- Latent demand drove every major feature: CLAUDE.md came from users writing their own markdown files for the model to read
+- Scaffolding (plan mode, system prompt instructions) gets subsumed by better models — 2,000 tokens were just deleted from the system prompt because Sonnet 4.5 no longer needed them
+- For prototyping: let Claude implement a throwaway version first, learn from its mistakes, then clear context and write a proper spec
+- Sub-agents are useful for forking context (code review output stays isolated from main work), migrations (10 sub-agents at once), and parallel debugging
+- The team builds features expecting to remove them in 3 months as models improve — they hope scaffolding becomes unnecessary
+---
+
 Transcript of the interview with Cat & Boris (Claude Code engineers) on the Every podcast, published October 29, 2025.
 
 <table width="100%">

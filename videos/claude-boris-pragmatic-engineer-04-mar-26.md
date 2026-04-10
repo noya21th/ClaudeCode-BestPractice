@@ -1,5 +1,18 @@
 # Building Claude Code with Boris Cherny — The Pragmatic Engineer
 
+## TL;DR
+- Boris's first PR at Anthropic was rejected because he wrote it by hand — his ramp-up buddy told him to use the AI tool instead
+- Claude Code originated from a bash tool experiment; the model wrote AppleScript to check what music Boris was listening to — a pivotal "feel the AGI" moment
+- At Meta, Boris led code quality across Instagram, Facebook, WhatsApp, and Messenger — clean codebases yield double-digit productivity gains
+- Code quality matters even more in the AI era: models pick wrong patterns from partially-migrated codebases
+- "Always understand the layer under" — for AI-era engineers, that means understanding the model itself
+- Boris ships 10-20 PRs daily; Opus 4.5 writes 100% of each one with roughly 2 bugs per month vs. 20+ if hand-written
+- His daily workflow: 5 parallel terminal checkouts (or desktop app with git worktrees), almost always starting in plan mode
+- The internal debate at Anthropic on whether to release Claude Code was resolved by safety: studying real-world agent behavior makes models safer
+- The printing press metaphor: scribes became authors when literature scaled — engineers will become "builders" as coding scales
+- A major migration that took 20-30 engineers two years would now take 5 engineers six months (and possibly 1 engineer in another six months)
+---
+
 Transcript of the interview with Boris Cherny ([@bcherny](https://x.com/bcherny)), creator of Claude Code, on The Pragmatic Engineer podcast, published March 4, 2026.
 
 <table width="100%">

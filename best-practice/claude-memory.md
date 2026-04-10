@@ -114,6 +114,13 @@ claude
 
 ---
 
+## See Also
+
+- [Memory & Context Management Guide](./claude-memory-guide.md) — Comprehensive guide to all memory layers and context management
+- [Agent Memory Report](../reports/claude-agent-memory.md) — Agent memory frontmatter and persistence scopes
+
+---
+
 ## Sources
 
 - [Claude Code Documentation - How Claude Looks Up Memories](https://code.claude.com/docs/en/memory#how-claude-looks-up-memories)

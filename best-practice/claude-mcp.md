@@ -124,6 +124,14 @@ Precedence: Subagent > Project > User
 
 ---
 
+## See Also
+
+- [Settings Best Practice](./claude-settings.md) — Configuration reference for MCP server settings and permissions
+- [MCP Servers Implementation](../implementation/claude-mcp-implementation.md) — Step-by-step MCP server setup examples
+- [Troubleshooting Guide](./claude-troubleshooting.md) — Diagnosing MCP connection and tool issues
+
+---
+
 ## Sources
 
 - [MCP Servers — Claude Code Docs](https://code.claude.com/docs/en/mcp)

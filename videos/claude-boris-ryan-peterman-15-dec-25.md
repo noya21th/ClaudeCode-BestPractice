@@ -1,5 +1,18 @@
 # Boris Cherny (Creator of Claude Code) On What Grew His Career — Ryan Peterman
 
+## TL;DR
+- Latent demand is "the single most important principle in product" — find what users already do, then build a product around that intent (Facebook Marketplace came from buy/sell groups)
+- Boris values generalists who do engineering, design, and user research — the Claude Code team recruits across all functions for this trait
+- Side quests (open-source projects, TypeScript book, meetups) drove major career growth; Boris looks for this curiosity when hiring
+- "Think in types" — the one technical book Boris recommends is Functional Programming in Scala, which changes how you reason about code
+- Coming in under-leveled at Meta gave Boris space to explore and build momentum through strong first impressions
+- Cross-org collaboration fails without shared goals — the chats-and-groups project struggled because Facebook and Messenger had opposing cultural values
+- Getting ahead of platform migrations (like Comet/React rewrite) creates outsized opportunities — product teams can influence infra direction
+- Models improve so fast that estimates become obsolete in months: a 20-30 engineer, 2-year project could be 5 engineers for 6 months today
+- Boris presented "three options to VP reviews — 80% of the time they pick the middle one" (tongue-in-cheek advice on decision-framing)
+- At Anthropic, titles do not matter — everyone is "member of technical staff" regardless of function, encouraging cross-lane work
+---
+
 Transcript of the interview with Boris Cherny ([@bcherny](https://x.com/bcherny)), creator of Claude Code, on Ryan Peterman's channel, published December 15, 2025.
 
 <table width="100%">

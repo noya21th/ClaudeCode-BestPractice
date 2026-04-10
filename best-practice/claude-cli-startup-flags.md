@@ -221,6 +221,13 @@ For environment variables configurable via the `"env"` key in `settings.json` (i
 
 ---
 
+## See Also
+
+- [Settings Best Practice](./claude-settings.md) — Full configuration reference including model and environment settings
+- [Settings Best Practice — Model Configuration](./claude-settings.md#model-configuration) — Model selection and effort level options
+
+---
+
 ## Sources
 
 - [Claude Code CLI Reference](https://code.claude.com/docs/en/cli-reference)

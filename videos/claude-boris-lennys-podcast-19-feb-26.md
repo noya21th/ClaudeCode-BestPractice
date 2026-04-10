@@ -1,5 +1,18 @@
 # Head of Claude Code: What Happens After Coding Is Solved — Lenny's Podcast
 
+## TL;DR
+- Boris writes 100% of his code with Claude Code (10-30 PRs/day) and has not edited a single line by hand since November 2025
+- Coding is "largely solved" — the frontier is now Claude coming up with ideas from feedback channels, bug reports, and telemetry
+- Productivity per engineer at Anthropic increased 200% even as the team grew 4x, driven by Claude Code adoption
+- Underfund projects slightly to force engineers to lean on AI — constraint drives creative Claude usage
+- Give engineers unlimited tokens early; optimize costs only after an idea proves viable at scale
+- Claude Code started as a terminal chatbot prototype that got two internal likes — it grew organically through user feedback loops
+- The terminal form factor survived because no UI could keep pace with how fast models improved
+- "Build for the model six months from now" — trace the exponential, not your current intuition
+- Everyone at Anthropic will become a product manager; the title "software engineer" will be replaced by "builder"
+- Co-work is extending agentic capabilities to non-engineers (parking tickets, project management, Slack coordination)
+---
+
 Transcript of the interview with Boris Cherny ([@bcherny](https://x.com/bcherny)), creator of Claude Code, on Lenny's Podcast, published February 19, 2026.
 
 <table width="100%">

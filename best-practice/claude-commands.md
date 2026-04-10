@@ -108,6 +108,14 @@ Bundled skills such as `/debug` can also appear in the slash-command menu, but t
 
 ---
 
+## See Also
+
+- [Agent vs Skill vs Command — Decision Tree](./claude-decision-tree.md) — When to use a command vs a skill vs an agent
+- [Orchestration Workflow](../orchestration-workflow/orchestration-workflow.md) — End-to-end Command-Agent-Skill workflow example
+- [Commands Implementation](../implementation/claude-commands-implementation.md) — Step-by-step custom command creation examples
+
+---
+
 ## Sources
 
 - [Claude Code Slash Commands](https://code.claude.com/docs/en/slash-commands)

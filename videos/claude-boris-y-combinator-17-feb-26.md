@@ -1,5 +1,18 @@
 # Inside Claude Code With Its Creator Boris Cherny — Y Combinator
 
+## TL;DR
+- "Build for the model six months from now" — Boris's core advice to founders building on LLMs; the model will catch up to your bet
+- Claude Code is rewritten constantly: "There is no part of Claude Code that was around 6 months ago"
+- Boris's personal CLAUDE.md is only two lines: (1) enable automerge on PRs, (2) post PRs to team Slack — all other instructions live in the shared repo-level CLAUDE.md
+- Keep CLAUDE.md minimal; delete it and rebuild from scratch when it gets bloated — each new model needs fewer instructions
+- Plan mode will likely be un-shipped when the model can infer planning intent automatically; scaffolding gets subsumed by better models
+- The plugins feature was entirely built by an agent swarm over a weekend with minimal human intervention — spec to Asana board to parallel agents
+- Claude Teams enables "uncorrelated context windows" — multiple agents with fresh contexts as a form of test-time compute
+- New engineers often use Claude Code more boldly than veterans; the biggest hiring signal is first-principles thinking and willingness to be wrong
+- Daisy (engineer on the team) had Claude build a tool so Claude could test its own tools — this out-of-the-box thinking is the new engineering skill
+- Sub-agents are mostly prompted by "mama quad" (the parent Claude) — the majority of agent sessions are now machine-initiated
+---
+
 Transcript of the interview with Boris Cherny ([@bcherny](https://x.com/bcherny)), creator of Claude Code, on the Y Combinator Light Cone podcast, published February 17, 2026.
 
 <table width="100%">

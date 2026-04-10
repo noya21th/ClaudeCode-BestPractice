@@ -1,5 +1,18 @@
 # Everything We Got Wrong About Research-Plan-Implement — MLOps Community
 
+## TL;DR
+- RPI evolved into CRISPY: Questions, Research, Design, Structure/Outline, Plan, Work tree, Implement, PR — seven focused stages instead of three
+- The "magic words" problem: 50% of users got bad results because the monolithic 85-instruction prompt skipped interactive steps unless you said the right thing
+- Frontier LLMs follow roughly 150-200 instructions with good consistency; anything more and adherence degrades — mind your instruction budget
+- "Do not outsource the thinking" — the engineer must remain the decision-maker; AI generates options, humans choose
+- Do not read the plan (1,000 lines); do read the code — plans and code diverge, so review the actual output instead
+- Separate research from intent: hide the ticket from the research context window to keep findings objective and opinion-free
+- Split mega-prompts into smaller, focused prompts with fewer than 40 instructions each; use code control flow instead of prompt control flow
+- The design discussion (200 lines) provides more leverage than the plan (1,000 lines) — catch wrong patterns and bad decisions early
+- Vertical plans (end-to-end slices with testable checkpoints) outperform horizontal plans (all DB, then all API, then all frontend)
+- 2026 is the year of no more slop: if people depend on your code, read it; 2-3x productivity with near-human quality beats 10x with throwaway rework
+---
+
 Transcript of the talk by Dexter Horthy ([@daborhey](https://x.com/daborhey)), co-founder of HumanLayer, at MLOps Community, published March 24, 2026.
 
 <table width="100%">
